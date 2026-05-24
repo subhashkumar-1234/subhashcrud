@@ -10,5 +10,6 @@ namespace subhashcrud.Interface
         bool AddEmployee(Employee employee);
         bool UpdateEmployee(Employee employee);
         bool DeleteEmployeeById(int id);
+
     }
 }
